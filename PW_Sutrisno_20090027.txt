@@ -1,0 +1,16 @@
+Microsoft Windows [Version 10.0.19044.1526]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ASUS>cd ..
+
+C:\Users>cd ..
+
+C:\>cd xampp
+
+C:\xampp>cd htdocs
+
+C:\xampp\htdocs>php tugaspertama.php
+Nama : Sutrisno
+Nim : .20090027
+Kelas : 4A
+C:\xampp\htdocs>C:\xampp\php
